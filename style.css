@@ -140,7 +140,8 @@ footer {
     }
     aside {
         width: 100%;
-        row-gap: 20px;
+        row-gap: 5px;
+        height: 200px;
     }
     section {
         width: 100%;
